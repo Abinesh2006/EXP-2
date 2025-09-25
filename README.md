@@ -1,6 +1,7 @@
 # EXP-2
 # EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
-
+rg no 212224040009
+name: Abinesh M
 ## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
