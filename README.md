@@ -70,6 +70,7 @@ Tabulation for Open Circuit Test
 ## output
 
 <img width="478" height="273" alt="image" src="https://github.com/user-attachments/assets/1adc38aa-b01e-4aaa-a1fc-9b278ce57b63" />
+<img width="1067" height="313" alt="image" src="https://github.com/user-attachments/assets/3d1858b0-4069-4938-aa6a-c910eee719b9" />
 <img width="478" height="373" alt="image" src="https://github.com/user-attachments/assets/407e7184-072e-47bf-b21e-d83871ddefc8" />
 
 
